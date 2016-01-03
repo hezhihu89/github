@@ -14,6 +14,7 @@ public class MainActivity extends AppCompatActivity {
     //添加github方法
     private void github() {
 
+        test();
     }
 
     //添加test 方法
