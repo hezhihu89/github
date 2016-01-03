@@ -10,9 +10,15 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
     }
-    //添加github方法
-    private void github(){
 
+    //添加github方法
+    private void github() {
+
+    }
+
+    //添加test 方法
+    private void test() {
+        github();
     }
 
 }
